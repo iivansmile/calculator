@@ -1,0 +1,11 @@
+C:\Users\acer\Desktop\Calculator\bin\Debug\Calculator Camcam.exe.config
+C:\Users\acer\Desktop\Calculator\bin\Debug\Calculator Camcam.exe
+C:\Users\acer\Desktop\Calculator\bin\Debug\Calculator Camcam.pdb
+C:\Users\acer\Desktop\Calculator\bin\Debug\Calculator Camcam.xml
+C:\Users\acer\Desktop\Calculator\obj\Debug\Calculator Camcam.vbprojAssemblyReference.cache
+C:\Users\acer\Desktop\Calculator\obj\Debug\Calculator_Camcam.Form1.resources
+C:\Users\acer\Desktop\Calculator\obj\Debug\Calculator_Camcam.Resources.resources
+C:\Users\acer\Desktop\Calculator\obj\Debug\Calculator Camcam.vbproj.GenerateResource.cache
+C:\Users\acer\Desktop\Calculator\obj\Debug\Calculator Camcam.exe
+C:\Users\acer\Desktop\Calculator\obj\Debug\Calculator Camcam.xml
+C:\Users\acer\Desktop\Calculator\obj\Debug\Calculator Camcam.pdb
